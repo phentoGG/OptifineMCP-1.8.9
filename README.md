@@ -28,4 +28,4 @@ If there is any build errors then link the libraries.
 then you are good to go :)
 
 
-## [Website](https://www.phentogg.github.io/home)
+## [Website](https://phentogg.github.io/home)
